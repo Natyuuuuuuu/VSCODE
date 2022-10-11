@@ -1,3 +1,2 @@
-Also fileB.txt can open
-Random line
+completely new line
 feature1 line in commitd
